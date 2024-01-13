@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">deviseApp</string>
+    <string name="montant">Montant :</string>
+    <string name="montantField">Montant :</string>
+    <string name="mont">Montant :</string>
+</resources>
